@@ -11,3 +11,4 @@ The code uses the following libraries :
 
 It uses Logistic Regression , Nearest Neighbour Algorithm (KNN) and Random Forest as its algorithm models.
 
+![Alt text]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2023-11-06 121911.png")
